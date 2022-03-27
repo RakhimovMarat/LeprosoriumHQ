@@ -1,0 +1,15 @@
+<h2>Latest posts</h2>
+<br />
+<% @posts.each do |post| %>
+	<p>
+		<%= post.content %>
+		<br />
+		<br />
+		<span style="font-size: 75%; color: #999">Added by <%= post['author'] %> at <%= post ['created_at'] %></span>
+		<br />
+		<a href="/details/<%= post['id'] %>">Comments</a>
+	</p>	
+	<hr />
+<% end %>
+
+

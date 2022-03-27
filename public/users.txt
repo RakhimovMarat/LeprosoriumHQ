@@ -1,0 +1,4 @@
+User: Marat, Phone: 111222, Date and Time: 25.01.2021 at 18.30, Master: Walter White, Color: #51b749
+User: John, Phone: 123, Date and Time: 77777, Master: Walter White, Color: #7bd148
+User: John, Phone: 123, Date and Time: 888888, Master: Walter White, Color: #7bd148
+User: John, Phone: 123, Date and Time: 888888, Master: Jessie Pinkman, Color: #5484ed
